@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" MD01 brintellix_20mg_tablet",
+        "price": 200,
+        "image": "assets/br.jpg"
+    },
+    {
+        "id": 2,
+        "name":" MD02 Lineacid Tablets",
+        "price": 250,
+        "image": "assets/line.png"
+    },
+    {
+        "id": 3,
+        "name":" MD03 mdd_xr_100mg_tablet",
+        "price": 290,
+        "image": "assets/mex.jpg"
+    },
+    {
+        "id": 4,
+        "name":" MD04 metrogyl_400mg_tablet",
+        "price": 200,
+        "image": "assets/met.jpg"
+    },
+    {
+        "id": 5,
+        "name":" MD05 rifagut_550mg_tablet",
+        "price": 300,
+        "image": "assets/rifa.jpg"
+    },
+    {
+        "id": 6,
+        "name":" MD06 zylomox_cv_375_vet_tablet",
+        "price": 200,
+        "image": "assets/zylo.jpg"
+    },
+    {
+        "id": 7,
+        "name":" MD07 pari_cr_37_5mg_tablet",
+        "price": 200,
+        "image": "assets/pari.jpg"
+    },
+    {
+        "id": 8,
+        "name":" MD08 martifur_100mg_tablet",
+        "price": 200,
+        "image": "assets/mart.jpg"
+    }
+
+]
